@@ -6,7 +6,7 @@
 ```bash
 • yolo darknet
 • RTX2060 gpu(Compute Capability : 7.5)
-•	window 10 
+• window 10 
 • CUDA, Cudnn, opencv
 ```
 
