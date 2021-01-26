@@ -8,7 +8,7 @@
 • RTX2060 gpu(Compute Capability : 7.5)
 •	window 10 
 • CUDA, Cudnn, opencv
-'''
+```
 
 #### 교통사고 감지 custom 모델 제작(yolov3, yolov4)
 ```bash
@@ -29,7 +29,7 @@
 7. convolution layer 파일 다운로드(pretrained model 사용)
 8. test
   -test 데이터로 학습결과 확인
-'''
+```
 
 
 
